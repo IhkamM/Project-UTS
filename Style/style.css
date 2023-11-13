@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css/2?family=Roboto:ital,wght@0,500;1,400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppons', sans-serif;
+}
+body {
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+/* Header */
+.ihkam_header2 {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-top: 100px;
+    width: 100%;
+    color: white;
+}
